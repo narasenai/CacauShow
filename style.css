@@ -1,0 +1,31 @@
+.borda{
+    border-radius: 10px;
+    margin: 10px 10px 100px 50px;
+    display: inline;
+}
+
+.cor{
+    background-color:rgb(58, 32, 32);
+    color: white;
+}
+
+.cortexto{
+    color: rgb(58, 32, 32);
+}
+
+.bordahero{
+    border-radius: 20px;
+    height: 550px;
+}
+
+.linha{
+    font-size: 50px;
+}
+
+.corrod{
+    background-color: black;
+    
+}
+.logo{
+    height: 60px;
+}
